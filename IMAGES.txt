@@ -1,0 +1,3 @@
+Until we have a better way to do this, we'll store image info here.
+
+Per image, list credit data, license type, acquisition date, acquisition source, etc.
