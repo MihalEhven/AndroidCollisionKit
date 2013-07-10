@@ -1,4 +1,3 @@
 AndroidCollisionKit
 ===================
-
-Android app that organizes information related to auto collisions.
+Android app that organizes information related to automobile collisions.
